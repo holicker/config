@@ -9,7 +9,7 @@ spring:
       server:
         encrypt.enabled: false
         git:
-          uri: https://github.com/holicker/config/
+          uri: https://github.com/holicker/config.git
           searchPaths: vendor
 
 management:
